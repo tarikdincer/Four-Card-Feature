@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: (https://github.com/tarikdincer/Four-Card-Feature)
--   Live Site URL: (https://your-live-site-url.com)
+-   Live Site URL: (https://tarikdincer.github.io/Four-Card-Feature/)
 
 ## Built with
 
